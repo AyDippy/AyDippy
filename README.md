@@ -149,8 +149,8 @@ class DataScientist:
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aydippy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydippy&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aydippy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydippy&layout=compact&langs_count=8&theme=radical&cache_seconds=86400"/>
   
 </div>
 
@@ -159,6 +159,16 @@ class DataScientist:
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aydippy&theme=radical)
   
 </div>
+
+### 📈 Language Breakdown
+```
+🐍 Python      ████████████████████ 79.22%
+📓 Jupyter     ████████████ 11.67%
+⚡ C++         ██████ 5.86%
+🐹 Cython      ██ 2.03%
+📱 JavaScript  █ 0.91%
+🔷 C           █ 0.91%
+```
 
 ---
 
